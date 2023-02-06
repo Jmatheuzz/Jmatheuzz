@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-  ## Olá, sou João Matheus
+## Olá, sou João Matheus
 
 - 🔭 Hoje trabalho com backend
 - 🌱 Estudando Ciência da computação na UFC, e por fora, Nodejs, arquitetura de software, ReactJS e React Native
