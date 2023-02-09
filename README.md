@@ -4,7 +4,6 @@
 - 🌱 Estudando Ciência da computação na UFC, e por fora, Nodejs, arquitetura de software, ReactJS e React Native
 - 💬 Me pergunte qualquer coisa sobre tecnologia e tentarei te responder da melhor forma.
 - 📫 Contato: joaomatheusantunes@gmail.com
-- 😄 Pronomes: ele/dele
 
 
 <div align="center"> 
